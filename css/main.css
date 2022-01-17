@@ -186,7 +186,7 @@ color: rgba(255, 255, 255, 0.46) !important
     padding: 30px 30px !important
 }
 
-.footer .nouridio {
+.footer .watermark {
     font-family: 'Montserrat' !important;
     font-style: normal !important;
     font-weight: 600 !important;
@@ -196,7 +196,7 @@ color: rgba(255, 255, 255, 0.46) !important
     font-variant: small-caps !important;
 }
 
-.footer .nouridio a {
+.footer .watermark a {
     color: #079efa!important;
     text-decoration: none !important;
 }
@@ -204,4 +204,7 @@ color: rgba(255, 255, 255, 0.46) !important
 .footer .bot-footer {
     text-align: center !important;
     color: #a2a8bd !important
+}
+.watermark > p >a{
+    color: #1D1E28;
 }
